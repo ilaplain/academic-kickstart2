@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#slider"
   weight = 10
 
 [[main]]
@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Critical Partnerships"
-  url = "#contact"
+  url = "#people"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
