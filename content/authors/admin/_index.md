@@ -57,6 +57,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The current COVID-19 outbreak highlights the risk that pandemics pose to national security. Viruses and pathogens should be treated similarly to other more apparent national threats. Quixote Technology is seeking to maintain national security and public health by tracking an individual’s immunization records.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Quixote Technology provides a solution that will be necessary as restrictions are eased following the COVID-19 pandemic and applicable on multiple scales.
