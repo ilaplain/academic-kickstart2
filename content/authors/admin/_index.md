@@ -1,41 +1,28 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Quixote Technology
 
 # Username (this should match the folder name)
-authors:
+authors:[]
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: []
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: []
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Quixote Technology is seeking to maintain national security and public health by tracking an individual’s immunization records.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+interests:[] 
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+education:[]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
